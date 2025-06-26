@@ -1,0 +1,6 @@
+customer_id,frequency,monetary,recency_days
+C001,5,1200,15
+C002,3,800,30
+C003,7,1600,5
+C004,1,100,60
+C005,4,950,12

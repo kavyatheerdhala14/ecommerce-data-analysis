@@ -1,0 +1,18 @@
+Power BI Demo Guide
+----------------------
+
+Import:
+- sales_trend.csv
+- category_sales.csv
+- customer_metrics.csv
+
+Suggested Visuals:
+✅ Sales trend line chart
+✅ Category sales bar chart
+✅ RFM Segmentation (frequency vs monetary)
+
+Suggested KPIs:
+✅ Total Sales
+✅ Number of Customers
+✅ Average Order Value
+✅ Conversion Rate

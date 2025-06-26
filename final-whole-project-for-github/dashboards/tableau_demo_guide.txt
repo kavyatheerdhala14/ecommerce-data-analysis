@@ -1,0 +1,18 @@
+Tableau Demo Guide
+----------------------
+
+Import:
+- sales_trend.csv
+- category_sales.csv
+- customer_metrics.csv
+
+Suggested Visuals:
+✅ Sales trend over time
+✅ Sales by category
+✅ Customer Segmentation (RFM-style)
+
+Suggested KPIs:
+✅ Total Sales
+✅ Number of Customers
+✅ Average Order Value
+✅ Conversion Rate
